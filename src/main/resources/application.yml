@@ -7,6 +7,6 @@ spring:
             clientId: e997fb5e7b31ae93cde6
             clientSecret: f6615bdd1b8ec81750c3bec1989e3725ab8e6c4a
           google:
-            client-id: google-client-id
-            client-secret: google-client-secret
+            client-id: 88852383159-lhoobn8392sivg2a1aoa9hjn05ct4g64.apps.googleusercontent.com
+            client-secret: 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
 # ...
